@@ -35,7 +35,7 @@ Full OHIF documentation is available at [docs.ohif.org](https://docs.ohif.org/).
 |---|---|
 | Live Website | [ohif-dental-viewer-962047575449.us-central1.run.app](https://ohif-dental-viewer-962047575449.us-central1.run.app) |
 | GitHub Repository | [github.com/bitbossing/24x7-ohif](https://github.com/bitbossing/24x7-ohif) |
-| Demo Video | Coming soon |
+| Demo Video | [youtu.be/ubZzu_26ePM](https://youtu.be/ubZzu_26ePM) |
 | OHIF Official | [ohif.org](https://ohif.org/) |
 | OHIF GitHub | [github.com/OHIF/Viewers](https://github.com/OHIF/Viewers) |
 | OHIF Documentation | [docs.ohif.org](https://docs.ohif.org/) |
